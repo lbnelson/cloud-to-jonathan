@@ -5,7 +5,7 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 
 ## Installing
 For the Jonathan to I am Groot version:
-Download [groot.xpi](https://github.com/lbnelson/cloud-to-butt-mozilla/blob/master/groot.xpi)
+Download [groot.xpi](https://github.com/lbnelson/cloud-to-butt-mozilla/blob/master/groot.xpi?raw=true)
 
 
 For the original:
